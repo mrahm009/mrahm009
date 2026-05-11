@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/27612530/README.md)
-# 👋 Md Mahfuzur Rahman, Ph.D. Candidate
+# Md Mahfuzur Rahman, Ph.D. Candidate
 
 **Mechanical & Aerospace Engineering | Old Dominion University**  
 📍 Norfolk, VA | 📧 mrahm009@odu.edu | [LinkedIn](#) | [Google Scholar](#) | [ORCiD](#)
