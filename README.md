@@ -26,7 +26,7 @@ I am also an experienced engineering educator with **6+ years of university-leve
 | **Device Fabrication** | PDMS microfabrication, thin-film deposition, plasma bonding |
 | **Circuit Design** | Custom PCBs, transimpedance amplifiers, analog front-end conditioning |
 
-📂 **[View Full Research Portfolio →](./research/)**
+📂 **[View Full Research Portfolio →](./Research/)**
 
 ---
 
@@ -39,7 +39,7 @@ I am also an experienced engineering educator with **6+ years of university-leve
 - **Rahman, M.M.** et al. (2025). *An Analytical Model of Motion Artifacts — Part II: Tactile Sensors.* **Sensors**, 25(18), 5700. [IF ≈ 3.5; Q2] [DOI](https://doi.org/10.3390/s25185700)
 - **Rahman, M.M.** et al. (2025). *Motion Artifacts At-Rest in Measured Arterial Pulse Signals.* **Biosensors**, 15(9), 578. [IF ≈ 5.6; Q1] [DOI](https://doi.org/10.3390/bios15090578)
 
-📂 **[View Full Publication List →](./publications/publications.md)**
+📂 **[View Full Publication List →](./Publications/publications.md)**
 
 ---
 
@@ -54,7 +54,7 @@ CAD & Design         │ AutoCAD · Autodesk Inventor · Multisim · SolidWorks 
 Statistics           │ SPSS · T-tests · ANOVA · Reproducibility analysis
 ```
 
-📂 **[View Full Skills Summary →](./skills/skills.md)**
+📂 **[View Full Skills Summary →](./Skills/skills.md)**
 
 ---
 
@@ -67,7 +67,7 @@ Statistics           │ SPSS · T-tests · ANOVA · Reproducibility analysis
 | Lecturer (Full-Time) | ADUST, Bangladesh | 2014 – 2017 |
 | Lecturer (Part-Time) | DIIT, Bangladesh | 2016 – 2017 |
 
-📂 **[View Full Teaching Portfolio →](./teaching/teaching_experience.md)**
+📂 **[View Full Teaching Portfolio →](./Teaching/teaching_experience.md)**
 
 ---
 
