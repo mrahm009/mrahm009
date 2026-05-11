@@ -39,7 +39,7 @@ I am also an experienced engineering educator with **6+ years of university-leve
 - **Rahman, M.M.** et al. (2025). *An Analytical Model of Motion Artifacts — Part II: Tactile Sensors.* **Sensors**, 25(18), 5700. [IF ≈ 3.5; Q2] [DOI](https://doi.org/10.3390/s25185700)
 - **Rahman, M.M.** et al. (2025). *Motion Artifacts At-Rest in Measured Arterial Pulse Signals.* **Biosensors**, 15(9), 578. [IF ≈ 5.6; Q1] [DOI](https://doi.org/10.3390/bios15090578)
 
-📂 **[View Full Publication List →](./Publications/publications.md)**
+📂 **[View Full Publication List →](./Publication/publications.md)**
 
 ---
 
