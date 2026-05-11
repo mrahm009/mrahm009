@@ -98,7 +98,7 @@ Statistics           │ SPSS · T-tests · ANOVA · Reproducibility analysis
 
 - 📥 [Download CV](#) *(upload your CV PDF to the repository)*
 - 📧 mrahm009@odu.edu
-- 🌐 [LinkedIn](https://www.linkedin.com/in/md-mahfuzur-rahman-1aa4a412a/) | [Google Scholar]([#](https://scholar.google.com/citations?user=8UTf-BEAAAAJ&hl=en&authuser=1)) | [ORCiD]([#](https://orcid.org/0000-0001-8405-2227))
+- 🌐 [LinkedIn](https://www.linkedin.com/in/md-mahfuzur-rahman-1aa4a412a/) | [Google Scholar](https://scholar.google.com/citations?user=8UTf-BEAAAAJ&hl=en&authuser=1) | [ORCiD](https://orcid.org/0000-0001-8405-2227)
 
 ---
 
