@@ -16,6 +16,20 @@ I am also an experienced engineering educator with **6+ years of university-leve
 
 ---
 
+## 🎓 Education
+
+| Degree | Field | Institution | Year | GPA |
+|--------|-------|-------------|------|-----|
+| Ph.D. | Mechanical & Aerospace Engineering | Old Dominion University, Norfolk, VA | Expected April 2026 | 3.87 / 4.0 |
+| M.S. | Applied Physics, Electronics & Communication Engineering | University of Dhaka, Bangladesh | 2012 | 3.73 / 4.0 |
+| B.S. | Applied Physics, Electronics & Communication Engineering | University of Dhaka, Bangladesh | 2010 | 3.81 / 4.0 |
+
+- 📌 **Dissertation:** *"Time-Frequency Analysis of Measured Arterial Pulse Signals for Motion Artifacts Removal"*
+- 👨‍🏫 **Advisor:** Dr. Zhili Hao
+- 💰 **Funding:** NSF Grant #1936005
+
+---
+
 ## 🔬 Research Highlights
 
 | Area | Details |
