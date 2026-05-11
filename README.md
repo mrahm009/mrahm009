@@ -96,7 +96,8 @@ Statistics           │ SPSS · T-tests · ANOVA · Reproducibility analysis
 
 ## 📄 CV & Contact
 
-- 📥 [Download CV](#) *(upload your CV PDF to the repository)*
+- 📥 [Download Academic CV](./Curriculum Vitae.pdf)
+- 📥 [Download Resume](./Resume.pdf)
 - 📧 mrahm009@odu.edu
 - 🌐 [LinkedIn](https://www.linkedin.com/in/md-mahfuzur-rahman-1aa4a412a/) | [Google Scholar](https://scholar.google.com/citations?user=8UTf-BEAAAAJ&hl=en&authuser=1) | [ORCiD](https://orcid.org/0000-0001-8405-2227)
 
