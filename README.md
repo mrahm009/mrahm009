@@ -125,7 +125,7 @@ Designed flexible PCB with accelerometers for carotid pulse acquisition — extr
 
 ## 📚 Publications
 
-<!--<div align="center">-->
+<div align="center">
 
 ![Publications](https://img.shields.io/badge/Journal_Articles-6-blue?style=for-the-badge)
 ![First Author](https://img.shields.io/badge/First_Author-4-green?style=for-the-badge)
@@ -148,8 +148,6 @@ Designed flexible PCB with accelerometers for carotid pulse acquisition — extr
 ---
 
 ## 🛠️ Technical Skills
-
-<div align="center">
 
 ### 🔬 Microfabrication
 ![Photolithography](https://img.shields.io/badge/Photolithography-Cleaning_·_Priming_·_Spin_Coating_·_Soft_Baking_·_Exposure_·_Development_·_Hard_Baking-purple?style=flat-square)
