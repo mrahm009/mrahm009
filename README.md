@@ -125,7 +125,7 @@ Designed flexible PCB with accelerometers for carotid pulse acquisition — extr
 
 ## 📚 Publications
 
-<div align="center">
+<div align="left">
 
 ![Publications](https://img.shields.io/badge/Journal_Articles-6-blue?style=for-the-badge)
 ![First Author](https://img.shields.io/badge/First_Author-4-green?style=for-the-badge)
@@ -167,8 +167,8 @@ Designed flexible PCB with accelerometers for carotid pulse acquisition — extr
 ![Multisim](https://img.shields.io/badge/Multisim-Circuit_Simulation-yellow?style=flat-square)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-Electrode_%26_Channel_Layout-E51837?style=flat-square)
 ![Autodesk Inventor](https://img.shields.io/badge/Autodesk_Inventor-3D_Mold_Design-orange?style=flat-square)
-![LabVIEW](https://img.shields.io/badge/LabVIEW-Real--Time_DAQ_Monitoring-FFDB00?style=flat-square)
-![NI DAQ](https://img.shields.io/badge/NI_DAQ-Hardware_Integration-yellow?style=flat-square)
+![LabVIEW](https://img.shields.io/badge/LabVIEW-Real--Time_Monitoring-FFDB00?style=flat-square)
+![NI DAQ](https://img.shields.io/badge/NI_DAQ-Analog_to_Digital_Conversion-yellow?style=flat-square)
 
 ### 💻 Signal Processing & Computation
 ![MATLAB](https://img.shields.io/badge/MATLAB-Advanced-0076A8?style=flat-square&logo=mathworks)
