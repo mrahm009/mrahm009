@@ -153,7 +153,7 @@ Designed flexible PCB with accelerometers for carotid pulse acquisition — extr
 
 ### 🔬 Microfabrication
 ![Photolithography](https://img.shields.io/badge/Photolithography-Cleaning_·_Priming_·_Spin_Coating_·_Soft_Baking_·_Exposure_·_Development_·_Hard_Baking-purple?style=flat-square)
-![Soft Lithography](https://img.shields.io/badge/Soft_Lithography-Mold_Fabrication_·_Casting_·_Curing_·_Peeling_·_Bonding-green?style=flat-square)
+![Soft Lithography](https://img.shields.io/badge/Soft_Lithography-Mold_Fabrication_·_Casting_·_Curing_·_Peeling_·_Sealing(Bonding)-green?style=flat-square)
 ![Sputtering](https://img.shields.io/badge/Sputtering-Au%2FCr_Thin--Film_Deposition_(EMS300T_D)-darkblue?style=flat-square)
 ![Electrode Layout](https://img.shields.io/badge/Electrode_Layout-Pyrex_Substrate_·_Etching-navy?style=flat-square)
 ![Oxygen Plasma](https://img.shields.io/badge/Oxygen_Plasma-PDMS--to--Pyrex_Bonding_(PDC--001)-blueviolet?style=flat-square)
