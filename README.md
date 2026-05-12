@@ -1,13 +1,8 @@
-[GitHub_Profile_README_v2.md](https://github.com/user-attachments/files/27642149/GitHub_Profile_README_v2.md)
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Md Mahfuzur Rahman, Ph.D. Candidate
+[GitHub_Profile_README_v4.md](https://github.com/user-attachments/files/27643089/GitHub_Profile_README_v4.md)
+# 👋 Md Mahfuzur Rahman, Ph.D. Candidate
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Biomedical+Engineer+%7C+Wearable+Sensing+Researcher;NSF-Funded+PhD+Candidate+%40+Old+Dominion+University;6+Peer-Reviewed+Publications+%7C+4+as+First+Author;Building+Medical+Devices+That+Work+for+Real+People)
-
-</div>
-
----
+**Mechanical & Aerospace Engineering | Old Dominion University**  
+📍 Norfolk, VA | 📧 mrahm009@odu.edu
 
 <div align="center">
 
@@ -15,8 +10,6 @@
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=8UTf-BEAAAAJ&hl=en&authuser=1)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8405-2227)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrahm009@odu.edu)
-[![CV](https://img.shields.io/badge/Download_CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Curriculum_Vitae.pdf)
-[![Resume](https://img.shields.io/badge/Download_Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Resume.pdf)
 
 </div>
 
@@ -24,55 +17,48 @@
 
 ## 🧬 About Me
 
-> *"Building medical technology that works for real people — not just in a controlled lab."*
+I am a biomedical-focused mechanical engineer finishing my Ph.D. at Old Dominion University (expected April 2026), with **6+ years of NSF-funded research** in developing, testing, and validating affordable wearable sensing systems for noninvasive cardiovascular health assessment.
 
-I am a **Ph.D. candidate in Mechanical & Aerospace Engineering** at Old Dominion University (expected April 2026), with **6+ years of NSF-funded research** in developing wearable sensing systems for noninvasive cardiovascular health assessment.
+My work bridges the gap between laboratory-grade clinical instruments and accessible home-use devices — combining **microfabrication**, **analog circuit design**, **physiological signal processing**, and **IRB-approved clinical validation** with real patients.
 
-My work bridges the gap between laboratory-grade clinical instruments and accessible, real-world medical devices — combining **microfabrication**, **analog circuit design**, **physiological signal processing**, and **IRB-approved clinical validation** with real cardiac patients.
-
-- 🏛️ **Institution:** Old Dominion University, Norfolk, VA
-- 🔬 **Advisor:** Dr. Zhili Hao | NSF Grant #1936005
-- 📍 **Location:** Norfolk, VA
-- 🌍 **Originally from:** Dhaka, Bangladesh
+I am also an experienced engineering educator with **6+ years of university-level teaching** across the United States and Bangladesh, and I bring a genuine commitment to inclusive, student-centered instruction.
 
 ---
 
 ## 🎓 Education
 
-<table>
-<tr>
-<th>Degree</th>
-<th>Field</th>
-<th>Institution</th>
-<th>Year</th>
-<th>GPA</th>
-</tr>
-<tr>
-<td><b>🎓 Ph.D.</b></td>
-<td>Mechanical & Aerospace Engineering</td>
-<td>Old Dominion University, Norfolk, VA</td>
-<td>Expected April 2026</td>
-<td><b>3.87 / 4.0</b></td>
-</tr>
-<tr>
-<td><b>🎓 M.S.</b></td>
-<td>Applied Physics, Electronics & Communication Engineering</td>
-<td>University of Dhaka, Bangladesh</td>
-<td>2012</td>
-<td><b>3.73 / 4.0</b></td>
-</tr>
-<tr>
-<td><b>🎓 B.S.</b></td>
-<td>Applied Physics, Electronics & Communication Engineering</td>
-<td>University of Dhaka, Bangladesh</td>
-<td>2010</td>
-<td><b>3.81 / 4.0</b></td>
-</tr>
-</table>
+<details>
+<summary><b>🎓 Ph.D. — Mechanical & Aerospace Engineering</b> &nbsp;|&nbsp; Old Dominion University &nbsp;|&nbsp; <code>GPA: 3.87/4.0</code></summary>
 
-- 📌 **Dissertation:** *"Time-Frequency Analysis of Measured Arterial Pulse Signals for Motion Artifacts Removal"*
-- 👨‍🏫 **Advisor:** Dr. Zhili Hao
-- 💰 **Funding:** NSF Grant #1936005
+<br>
+
+- 📅 Expected: **April 2026**
+- 📌 Dissertation: *"Time-Frequency Analysis of Measured Arterial Pulse Signals for Motion Artifacts Removal"*
+- 👨‍🏫 Advisor: Dr. Zhili Hao
+- 💰 Funding: NSF Grant #1936005
+- 🏛️ Norfolk, VA, USA
+
+</details>
+
+<details>
+<summary><b>🎓 M.S. — Applied Physics, Electronics & Communication Engineering</b> &nbsp;|&nbsp; University of Dhaka &nbsp;|&nbsp; <code>GPA: 3.73/4.0</code></summary>
+
+<br>
+
+- 📅 Completed: **March 2012**
+- 🌍 Dhaka, Bangladesh
+
+</details>
+
+<details>
+<summary><b>🎓 B.S. — Applied Physics, Electronics & Communication Engineering</b> &nbsp;|&nbsp; University of Dhaka &nbsp;|&nbsp; <code>GPA: 3.81/4.0</code></summary>
+
+<br>
+
+- 📅 Completed: **September 2010**
+- 🌍 Dhaka, Bangladesh
+
+</details>
 
 ---
 
@@ -148,8 +134,6 @@ Designed flexible PCB with accelerometers for carotid pulse acquisition — extr
 
 </div>
 
-### 🏆 Selected Publications
-
 | # | Title | Journal | Year | IF | Role |
 |---|-------|---------|------|-----|------|
 | 1 | [Motion Artifacts At-Rest in Arterial Pulse Signals](https://doi.org/10.3390/bios15090578) | **Biosensors** | 2025 | ≈5.6 Q1 | First Author |
@@ -167,34 +151,50 @@ Designed flexible PCB with accelerometers for carotid pulse acquisition — extr
 
 <div align="center">
 
-### Programming & Signal Processing
+### 🔬 Microfabrication
+![Photolithography](https://img.shields.io/badge/Photolithography-Spin_Coating_·_UV_·_Development-purple?style=flat-square)
+![PDMS](https://img.shields.io/badge/PDMS-Casting_·_Bonding_(Sylgard_184)-green?style=flat-square)
+![Sputter Deposition](https://img.shields.io/badge/Sputter_Deposition-Au%2FCr_Thin_Film-darkblue?style=flat-square)
+![Plasma Treatment](https://img.shields.io/badge/Plasma_Treatment-O2_Bonding_(PDC--001)-blueviolet?style=flat-square)
+![SU-8](https://img.shields.io/badge/SU--8-Microchannel_Mold_Fabrication-brown?style=flat-square)
+![3D Printing](https://img.shields.io/badge/3D_Printing-Mold_Prototyping-lightgrey?style=flat-square)
+
+### ⚡ Sensor Design & Electronics
+![KiCad](https://img.shields.io/badge/KiCad-PCB_Design-314CB0?style=flat-square)
+![Analog Front-End](https://img.shields.io/badge/Analog_Front--End-Signal_Conditioning-navy?style=flat-square)
+![Multisim](https://img.shields.io/badge/Multisim-Circuit_Simulation-yellow?style=flat-square)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-Electrode_%26_Channel_Layout-E51837?style=flat-square)
+![Autodesk Inventor](https://img.shields.io/badge/Autodesk_Inventor-3D_Mold_Design-orange?style=flat-square)
+![LabVIEW](https://img.shields.io/badge/LabVIEW-Real--Time_DAQ_Monitoring-FFDB00?style=flat-square)
+![NI DAQ](https://img.shields.io/badge/NI_DAQ-Hardware_Integration-yellow?style=flat-square)
+
+### 💻 Signal Processing & Computation
 ![MATLAB](https://img.shields.io/badge/MATLAB-Advanced-0076A8?style=flat-square&logo=mathworks)
 ![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python)
-![LabVIEW](https://img.shields.io/badge/LabVIEW-Advanced-FFDB00?style=flat-square)
-![SPSS](https://img.shields.io/badge/SPSS-Intermediate-052FAD?style=flat-square)
+![Simulink](https://img.shields.io/badge/Simulink-System_Modeling-0076A8?style=flat-square)
+![SPSS](https://img.shields.io/badge/SPSS-T--tests_·_ANOVA-052FAD?style=flat-square)
+![FFT](https://img.shields.io/badge/FFT-Spectral_Analysis-teal?style=flat-square)
+![EMD](https://img.shields.io/badge/EMD-Mode_Decomposition-teal?style=flat-square)
+![HHT](https://img.shields.io/badge/HHT-Hilbert--Huang_Transform-teal?style=flat-square)
+![HVD](https://img.shields.io/badge/HVD-Hilbert_Vibrational_Decomp-teal?style=flat-square)
+![CDM](https://img.shields.io/badge/CDM-Complex_Demodulation-teal?style=flat-square)
+![ODE45](https://img.shields.io/badge/ODE45-Numerical_Simulation-teal?style=flat-square)
+![CWT](https://img.shields.io/badge/CWT%2FDWT-Wavelet_Analysis-teal?style=flat-square)
 
-### Hardware & Fabrication
-![KiCad](https://img.shields.io/badge/KiCad-PCB_Design-314CB0?style=flat-square)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-CAD_Design-E51837?style=flat-square)
-![PDMS](https://img.shields.io/badge/PDMS-Microfabrication-green?style=flat-square)
-![Photolithography](https://img.shields.io/badge/Photolithography-Thin_Film-purple?style=flat-square)
+### 🏥 Clinical & Human Subjects Research
+![IRB](https://img.shields.io/badge/IRB-Protocol_Design_%26_Compliance-red?style=flat-square)
+![REDCap](https://img.shields.io/badge/REDCap-Data_Collection_%26_Management-orange?style=flat-square)
+![CITI](https://img.shields.io/badge/CITI-Certified_(Active_2026--2029)-brightgreen?style=flat-square)
+![Doppler](https://img.shields.io/badge/Doppler_Ultrasound-Arterial_Imaging-darkred?style=flat-square)
+![Tonometry](https://img.shields.io/badge/Applanation_Tonometry-Vascular_Stiffness-darkred?style=flat-square)
+![Mindray](https://img.shields.io/badge/Mindray-BP_%2F_HR_%2F_SpO2-darkred?style=flat-square)
 
-### Clinical Research
-![IRB](https://img.shields.io/badge/IRB-Protocol_Design-red?style=flat-square)
-![REDCap](https://img.shields.io/badge/REDCap-Data_Management-orange?style=flat-square)
-![CITI](https://img.shields.io/badge/CITI-Certified_(Active)-brightgreen?style=flat-square)
+### 🖥️ Learning Management & Teaching Tools
+![Canvas](https://img.shields.io/badge/Canvas-LMS_Course_Delivery-E66000?style=flat-square)
+![Blackboard](https://img.shields.io/badge/Blackboard-Course_Management-black?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Graduate_Coursework_(ECE_607)-lightblue?style=flat-square)
 
 </div>
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  MICROFABRICATION    │  Photolithography · PDMS · Plasma bonding  │
-│  CIRCUIT DESIGN      │  KiCad PCB · TIA · Analog front-end        │
-│  SIGNAL PROCESSING   │  FFT · EMD · HHT · HVD · CDM · ODE45       │
-│  CLINICAL RESEARCH   │  IRB · REDCap · CITI · Human subjects       │
-│  CAD & DESIGN        │  AutoCAD · Autodesk Inventor · Multisim     │
-└─────────────────────────────────────────────────────────────────┘
-```
 
 📂 **[View Full Skills Summary →](./Skills/skills.md)**
 
@@ -242,18 +242,16 @@ Designed flexible PCB with accelerometers for carotid pulse acquisition — extr
 
 ---
 
-## 📫 Contact Me
+## 📫 Get In Touch
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| 📧 Email | mrahm009@odu.edu |
-| 💼 LinkedIn | [md-mahfuzur-rahman](https://www.linkedin.com/in/md-mahfuzur-rahman-1aa4a412a/) |
-| 🎓 Google Scholar | [Mahfuzur Rahman](https://scholar.google.com/citations?user=8UTf-BEAAAAJ&hl=en&authuser=1) |
-| 🔬 ORCiD | [0000-0001-8405-2227](https://orcid.org/0000-0001-8405-2227) |
-| 📥 Academic CV | [Download PDF](./Curriculum_Vitae.pdf) |
-| 📥 Resume | [Download PDF](./Resume.pdf) |
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mahfuzur-rahman-1aa4a412a/)
+[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrahm009@odu.edu)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=8UTf-BEAAAAJ&hl=en&authuser=1)
+[![ORCID](https://img.shields.io/badge/ORCID_Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8405-2227)
+[![CV](https://img.shields.io/badge/Academic_CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Curriculum_Vitae.pdf)
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Resume.pdf)
 
 </div>
 
