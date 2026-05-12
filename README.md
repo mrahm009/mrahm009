@@ -192,6 +192,7 @@ Designed flexible PCB with accelerometers for carotid pulse acquisition — extr
 ### 🖥️ Learning Management & Teaching Tools
 ![Canvas](https://img.shields.io/badge/Canvas-LMS_Course_Delivery-E66000?style=flat-square)
 ![Blackboard](https://img.shields.io/badge/Blackboard-Course_Management-black?style=flat-square)
+![ABET](https://img.shields.io/badge/ABET-Course_Outcome_Assessment_%26_Documentation-blue?style=flat-square)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Graduate_Coursework_(ECE_607)-lightblue?style=flat-square)
 
 </div>
