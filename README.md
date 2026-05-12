@@ -232,13 +232,12 @@ Designed flexible PCB with accelerometers for carotid pulse acquisition — extr
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Research Impact
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrahm009&show_icons=true&theme=tokyonight&hide_border=true)
-
-</div>
+![Publications](https://img.shields.io/badge/Journal_Articles-6-blue?style=for-the-badge)
+![First Author](https://img.shields.io/badge/First_Author-4-green?style=for-the-badge)
+![NSF Funded](https://img.shields.io/badge/NSF_Funded-6_Years-orange?style=for-the-badge)
+![Citations](https://img.shields.io/badge/h--index-Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar)
 
 ---
 
