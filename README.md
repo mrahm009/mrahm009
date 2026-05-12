@@ -152,12 +152,14 @@ Designed flexible PCB with accelerometers for carotid pulse acquisition — extr
 <div align="center">
 
 ### 🔬 Microfabrication
-![Photolithography](https://img.shields.io/badge/Photolithography-Spin_Coating_·_UV_·_Development-purple?style=flat-square)
-![PDMS](https://img.shields.io/badge/PDMS-Casting_·_Bonding_(Sylgard_184)-green?style=flat-square)
-![Sputter Deposition](https://img.shields.io/badge/Sputter_Deposition-Au%2FCr_Thin_Film-darkblue?style=flat-square)
-![Plasma Treatment](https://img.shields.io/badge/Plasma_Treatment-O2_Bonding_(PDC--001)-blueviolet?style=flat-square)
-![SU-8](https://img.shields.io/badge/SU--8-Microchannel_Mold_Fabrication-brown?style=flat-square)
-![3D Printing](https://img.shields.io/badge/3D_Printing-Mold_Prototyping-lightgrey?style=flat-square)
+![Photolithography](https://img.shields.io/badge/Photolithography-Cleaning_·_Priming_·_Spin_Coating_·_Soft_Baking_·_Exposure_·_Development_·_Hard_Baking-purple?style=flat-square)
+![Soft Lithography](https://img.shields.io/badge/Soft_Lithography-Mold_Fabrication_·_Casting_·_Curing_·_Peeling_·_Bonding-green?style=flat-square)
+![Sputtering](https://img.shields.io/badge/Sputtering-Au%2FCr_Thin--Film_Deposition_(EMS300T_D)-darkblue?style=flat-square)
+![Electrode Layout](https://img.shields.io/badge/Electrode_Layout-Pyrex_Substrate_·_Etching-navy?style=flat-square)
+![Oxygen Plasma](https://img.shields.io/badge/Oxygen_Plasma-PDMS--to--Pyrex_Bonding_(PDC--001)-blueviolet?style=flat-square)
+![PDMS](https://img.shields.io/badge/PDMS-Microstructure_Fabrication_(Sylgard_184)-green?style=flat-square)
+![SU-8](https://img.shields.io/badge/SU--8-Microchannel_Mold_(100--150_μm)-brown?style=flat-square)
+![3D Printing](https://img.shields.io/badge/3D_Printing-Microchannel_Mold_Prototyping-lightgrey?style=flat-square)
 
 ### ⚡ Sensor Design & Electronics
 ![KiCad](https://img.shields.io/badge/KiCad-PCB_Design-314CB0?style=flat-square)
