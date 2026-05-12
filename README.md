@@ -231,8 +231,8 @@ Designed flexible PCB with accelerometers for carotid pulse acquisition — extr
 | 💰 NSF Grant #1936005 (Researcher) | National Science Foundation | 2019–Present |
 
 ---
-<div align="center">
 ## 📊 Research Impact
+<div align="center">
 
 ![Publications](https://img.shields.io/badge/Journal_Articles-6-blue?style=for-the-badge)
 ![First Author](https://img.shields.io/badge/First_Author-4-green?style=for-the-badge)
