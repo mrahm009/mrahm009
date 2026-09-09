@@ -1,5 +1,5 @@
 [GitHub_Profile_README_v4.md](https://github.com/user-attachments/files/27643089/GitHub_Profile_README_v4.md)
-# Md Mahfuzur Rahman, Ph.D. Candidate
+# Md Mahfuzur Rahman, Ph.D.
 
 **Mechanical & Aerospace Engineering | Old Dominion University**  
 📍 Norfolk, VA | 📧 mrahm009@odu.edu
@@ -17,7 +17,7 @@
 
 ## 🧬 About Me
 
-I am a biomedical-focused mechanical engineer finishing my Ph.D. at Old Dominion University (expected April 2026), with **6+ years of NSF-funded research** in developing, testing, and validating affordable wearable sensing systems for noninvasive cardiovascular health assessment.
+I am a biomedical-focused mechanical engineer completed my Ph.D. at Old Dominion University (August 2026), with **6+ years of NSF-funded research** in developing, testing, and validating affordable wearable sensing systems for noninvasive cardiovascular health assessment.
 
 My work bridges the gap between laboratory-grade clinical instruments and accessible home-use devices — combining **microfabrication**, **analog circuit design**, **physiological signal processing**, and **IRB-approved clinical validation** with real patients.
 
@@ -32,7 +32,7 @@ I am also an experienced engineering educator with **6+ years of university-leve
 
 <br>
 
-- 📅 Expected: **April 2026**
+- 📅 Completed: **August 2026**
 - 📌 Dissertation: *"Time-Frequency Analysis of Measured Arterial Pulse Signals for Motion Artifacts Removal"*
 - 👨‍🏫 Advisor: Dr. Zhili Hao
 - 💰 Funding: NSF Grant #1936005
