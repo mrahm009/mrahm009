@@ -127,8 +127,8 @@ Designed flexible PCB with accelerometers for carotid pulse acquisition — extr
 
 <div align="center">
 
-![Publications](https://img.shields.io/badge/Journal_Articles-6-blue?style=for-the-badge)
-![First Author](https://img.shields.io/badge/First_Author-4-green?style=for-the-badge)
+![Publications](https://img.shields.io/badge/Journal_Articles-10-blue?style=for-the-badge)
+![First Author](https://img.shields.io/badge/First_Author-6-green?style=for-the-badge)
 ![Conference](https://img.shields.io/badge/Conference_Papers-2-orange?style=for-the-badge)
 ![Q1 Journal](https://img.shields.io/badge/Q1_Journal-1-red?style=for-the-badge)
 
@@ -136,12 +136,15 @@ Designed flexible PCB with accelerometers for carotid pulse acquisition — extr
 
 | # | Title | Journal | Year | IF | Role |
 |---|-------|---------|------|-----|------|
-| 1 | [Motion Artifacts At-Rest in Arterial Pulse Signals](https://doi.org/10.3390/bios15090578) | **Biosensors** | 2025 | ≈5.6 Q1 | First Author |
-| 2 | [Analytical Model of Motion Artifacts — Part I](https://doi.org/10.3390/s25185710) | **Sensors** | 2025 | ≈3.5 Q2 | First Author |
-| 3 | [Analytical Model of Motion Artifacts — Part II](https://doi.org/10.3390/s25185700) | **Sensors** | 2025 | ≈3.5 Q2 | First Author |
+| 1 | [Accelerometer-Based Arterial Pulse Measurement — Part II](https://doi.org/10.3390/s26216936) | **Sensors** | 2026 | ≈3.5 Q2 | Co-Author |
+| 2 | [Subject-Specific Cardiovascular Signatures — Part I: General Cases](https://doi.org/10.3390/diagnostics16213579) | **Diagnostics** | 2026 | ≈3.0 Q2 | First Author |
+| 3 | [Subject-Specific Cardiovascular Signatures — Part II: Special Cases](https://doi.org/10.3390/diagnostics16213451) | **Diagnostics** | 2026 | ≈3.0 Q2 | Co-Author |
 | 4 | [Cardiovascular Function in Heart Transplant Patient](https://doi.org/10.1088/2977-8425/ae4b40) | Medical Sensors & Imaging | In Press | — | First Author |
-| 5 | [Pulse Measurement Alters True Pulse Signal](https://doi.org/10.1115/1.4069099) | ASME J. Eng. Sci. Med. | 2026 | ≈1.1 | Co-Author |
-| 6 | [Carotid Artery Lamb Waves](https://doi.org/10.1115/1.4056267) | ASME J. Eng. Sci. Med. | 2023 | ≈1.1 | Co-Author |
+| 5 | [Motion Artifacts At-Rest in Arterial Pulse Signals](https://doi.org/10.3390/bios15090578) | **Biosensors** | 2025 | ≈5.6 Q1 | First Author |
+| 6 | [Analytical Model of Motion Artifacts — Part I](https://doi.org/10.3390/s25185710) | **Sensors** | 2025 | ≈3.5 Q2 | First Author |
+| 7 | [Analytical Model of Motion Artifacts — Part II](https://doi.org/10.3390/s25185700) | **Sensors** | 2025 | ≈3.5 Q2 | First Author |
+| 8 | [Pulse Measurement Alters True Pulse Signal](https://doi.org/10.1115/1.4069099) | ASME J. Eng. Sci. Med. | 2025 | ≈1.1 | Co-Author |
+| 9 | [Carotid Artery Lamb Waves](https://doi.org/10.1115/1.4056267) | ASME J. Eng. Sci. Med. | 2023 | ≈1.1 | Co-Author |
 
 📂 **[View Full Publication List →](./Publication/publications.md)**
 
