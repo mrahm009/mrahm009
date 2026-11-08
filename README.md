@@ -1,7 +1,7 @@
 [GitHub_Profile_README_v4.md](https://github.com/user-attachments/files/27643089/GitHub_Profile_README_v4.md)
 # Md Mahfuzur Rahman, Ph.D.
 
-**Mechanical & Aerospace Engineering | Old Dominion University**  
+**Adjunct Assistant Professor, ODU | Biomedical Sensing & Device Prototyping**  
 📍 Norfolk, VA | 📧 mrahm009@odu.edu
 
 <div align="center">
