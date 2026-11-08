@@ -16,7 +16,19 @@ My teaching is built around three principles:
 
 ### 🇺🇸 Old Dominion University, Norfolk, VA
 
-#### Graduate Teaching Assistant (Instructor) | Aug 2022 – Present
+#### Adjunct Assistant Professor | Electrical Engineering Technology | Sep 2026 – Present
+**Courses Taught:**
+- ENGT 434W: Senior Capstone Design I (Writing-Intensive)
+- EET 373: Instrumentation
+
+**Responsibilities:**
+- Teach undergraduate courses in both in-person and asynchronous online formats
+- Mentor senior design teams through open-ended, real-world engineering projects
+- Teach instrumentation fundamentals and industrial control concepts
+- Develop course materials, assignments, and assessments aligned with learning outcomes
+- Manage course delivery via Canvas
+
+#### Graduate Teaching Assistant (Instructor) | Aug 2022 – Dec 2025
 **Course Taught:**
 - MAE 203: Material Science Lab
 
@@ -26,7 +38,7 @@ My teaching is built around three principles:
 - Managed course delivery across multiple sections via Canvas/Blackboard
 - Administered ABET course outcome evaluations
 
-#### Graduate Teaching Assistant (Grader) | Sep 2019 – Present
+#### Graduate Teaching Assistant (Grader) | Sep 2019 – Dec 2025
 **Courses Supported:**
 - MAE 434W: Project Design and Management I
 - MAE 433: Mechanical Engineering Design II
