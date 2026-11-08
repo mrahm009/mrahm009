@@ -205,16 +205,17 @@ Designed flexible PCB with accelerometers for carotid pulse acquisition — extr
 
 <div align="center">
 
-![Teaching Years](https://img.shields.io/badge/Teaching_Experience-6+_Years-blue?style=for-the-badge)
-![Courses Taught](https://img.shields.io/badge/Courses_Taught-14+-green?style=for-the-badge)
+![Teaching Years](https://img.shields.io/badge/Teaching_Experience-7+_Years-blue?style=for-the-badge)
+![Courses Taught](https://img.shields.io/badge/Courses_Taught-16+-green?style=for-the-badge)
 ![Countries](https://img.shields.io/badge/Countries-2_(USA_&_Bangladesh)-orange?style=for-the-badge)
 
 </div>
 
 | Role | Institution | Period | Courses |
 |------|-------------|--------|---------|
-| 🇺🇸 GTA Instructor | Old Dominion University | 2022–Present | MAE 203: Material Science Lab |
-| 🇺🇸 GTA Grader | Old Dominion University | 2019–Present | Dynamics, Solid Mechanics, Design |
+| 🇺🇸 Adjunct Assistant Professor | Old Dominion University | 2026–Present | ENGT 434W: Senior Capstone Design I, EET 373: Instrumentation |
+| 🇺🇸 GTA Instructor | Old Dominion University | 2022–2025 | MAE 203: Material Science Lab |
+| 🇺🇸 GTA Grader | Old Dominion University | 2019–2025 | Dynamics, Solid Mechanics, Design |
 | 🇧🇩 Full-Time Lecturer | ADUST, Bangladesh | 2014–2017 | 12 courses: Circuits, DSP, Microprocessors |
 | 🇧🇩 Part-Time Lecturer | DIIT, Bangladesh | 2016–2017 | EE Fundamentals, Microprocessors |
 
