@@ -17,11 +17,11 @@
 
 ## 🧬 About Me
 
-I am a biomedical-focused mechanical engineer completed my Ph.D. at Old Dominion University (August 2026), with **6+ years of NSF-funded research** in developing, testing, and validating affordable wearable sensing systems for noninvasive cardiovascular health assessment.
+I earned my Ph.D. in Mechanical Engineering from Old Dominion University (August 2026), where my work centered on biomedical sensing and devices, backed by **6+ years of NSF-funded research** developing, testing, and validating affordable wearable sensing systems for noninvasive cardiovascular health assessment.
 
 My work bridges the gap between laboratory-grade clinical instruments and accessible home-use devices — combining **microfabrication**, **analog circuit design**, **physiological signal processing**, and **IRB-approved clinical validation** with real patients.
 
-I am also an experienced engineering educator with **6+ years of university-level teaching** across the United States and Bangladesh, and I bring a genuine commitment to inclusive, student-centered instruction.
+I am also an experienced engineering educator, currently serving as an **Adjunct Assistant Professor in Electrical Engineering Technology** at Old Dominion University, with **6+ years of university-level teaching** across the United States and Bangladesh and a genuine commitment to inclusive, student-centered instruction.
 
 ---
 
