@@ -14,7 +14,6 @@ NSF-funded research (Grant #1936005)
   <li><strong>Rahman, M.M.</strong>, Hasan, M., May, J. F., Herre, J. M., Reynolds, L. J., &amp; Hao, Z. (2026). Subject-Specific Cardiovascular Signatures Revealed by Arterial Pulse Signals in Patients with Heart Diseases—Part I: General Cases. <em>Diagnostics</em>, 16(21), 3579. <a href="https://doi.org/10.3390/diagnostics16213579">doi:10.3390/diagnostics16213579</a></li>
   <li>Hasan, M., <strong>Rahman, M.M.</strong>, May, J. F., Herre, J. M., Reynolds, L., &amp; Hao, Z. (2026). Subject-Specific Cardiovascular Signatures Revealed by Arterial Pulse Signals in Patients with Heart Diseases—Part II: Special Cases. <em>Diagnostics</em>, 16(21), 3451. <a href="https://doi.org/10.3390/diagnostics16213451">doi:10.3390/diagnostics16213451</a></li>
   <li><strong>Rahman, M.M.</strong>, Hasan, M., May, J. F., Herre, J. M., Reynolds, L., &amp; Hao, Z. (2026). Radial and carotid arterial pulse signals for assessing cardiovascular function at rest and during post-exercise recovery in a heart transplant patient: a case study. <strong>Medical Sensors &amp; Imaging</strong> (IOP Publishing). <a href="https://doi.org/10.1088/2977-8425/ae4b40">Accepted; doi:10.1088/2977-8425/ae4b40</a></li>
-  <li>Toraskar, S., <strong>Rahman, M.M.</strong>, &amp; Hao, Z. (2026). Pulse Measurement Alters the True Pulse Signal in an Artery: A Coupled String-SDOF Model. <strong>ASME Journal of Engineering and Science in Medical Diagnostics and Therapy</strong>, 9(1), 011207. <a href="https://doi.org/10.1115/1.4069099">doi:10.1115/1.4069099</a></li>
 </ul>
 
 <h3><em>2025</em></h3>
@@ -23,6 +22,7 @@ NSF-funded research (Grant #1936005)
   <li><strong>Rahman, M.M.</strong>, et al. (2025). An Analytical Model of Motion Artifacts in a Measured Arterial Pulse Signal—Part I: Accelerometers and PPG Sensors. <em>Sensors</em>, 25(18), 5710. <a href="https://doi.org/10.3390/s25185710">doi:10.3390/s25185710</a></li>
   <li><strong>Rahman, M.M.</strong>, et al. (2025). An Analytical Model of Motion Artifacts in a Measured Arterial Pulse Signal—Part II: Tactile Sensors. <em>Sensors</em>, 25(18), 5700. <a href="https://doi.org/10.3390/s25185700">doi:10.3390/s25185700</a></li>
   <li><strong>Rahman, M.M.</strong>, et al. (2025). Motion Artifacts (MA) At-Rest in Measured Arterial Pulse Signals: Time-Varying Amplitude in Each Harmonic and Non-Flat Harmonic-MA-Coupled Baseline. <em>Biosensors</em>, 15(9), 578. <a href="https://doi.org/10.3390/bios15090578">doi:10.3390/bios15090578</a></li>
+  <li>Toraskar, S., <strong>Rahman, M.M.</strong>, &amp; Hao, Z. (2026). Pulse Measurement Alters the True Pulse Signal in an Artery: A Coupled String-SDOF Model. <strong>ASME Journal of Engineering and Science in Medical Diagnostics and Therapy</strong>, 9(1), 011207. <a href="https://doi.org/10.1115/1.4069099">doi:10.1115/1.4069099</a></li>
 </ul>
 
 <h3><em>2023</em></h3>
