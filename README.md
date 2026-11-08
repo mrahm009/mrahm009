@@ -127,8 +127,8 @@ Designed flexible PCB with accelerometers for carotid pulse acquisition — extr
 
 <div align="center">
 
-![Publications](https://img.shields.io/badge/Journal_Articles-10-blue?style=for-the-badge)
-![First Author](https://img.shields.io/badge/First_Author-6-green?style=for-the-badge)
+![Publications](https://img.shields.io/badge/Journal_Articles-9-blue?style=for-the-badge)
+![First Author](https://img.shields.io/badge/First_Author-5-green?style=for-the-badge)
 ![Conference](https://img.shields.io/badge/Conference_Papers-2-orange?style=for-the-badge)
 ![Q1 Journal](https://img.shields.io/badge/Q1_Journal-1-red?style=for-the-badge)
 
