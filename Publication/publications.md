@@ -1,9 +1,7 @@
-[publications.md](https://github.com/user-attachments/files/27613884/publications.md)
-📚 Publications
-Summary
-10 peer-reviewed journal articles (6 as first author)
-2 conference proceedings (both as first author)
-NSF-funded research (Grant #1936005)
+<h2><a href="https://github.com/user-attachments/files/27613884/publications.md">publications.md</a> 📚 Publications Summary</h2><ul>
+  <li><strong>10</strong> peer-reviewed journal articles (<strong>6 as first author</strong>)</li>
+  <li><strong>2</strong> conference proceedings (both as first author)</li>
+  <li>NSF-funded research (Grant #1936005)</li>
 ---
 <h2>Journal Articles (Peer-Reviewed)</h2>
 
