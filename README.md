@@ -142,7 +142,8 @@ Designed flexible PCB with accelerometers for carotid pulse acquisition — extr
 | 4 | [Analytical Model of Motion Artifacts — Part I](https://doi.org/10.3390/s25185710) | **Sensors** | 2025 | First Author |
 | 5 | [Analytical Model of Motion Artifacts — Part II](https://doi.org/10.3390/s25185700) | **Sensors** | 2025 | First Author |
 | 6 | [Carotid Artery Lamb Waves](https://doi.org/10.1115/1.4056267) | ASME J. Eng. Sci. Med. | 2023 | Co-Author |
-📂 **[View Full Publication List →](./Publication/publications.md)**
+
+**[📂 View Full Publication List →](./Publication/publications.md)**
 
 ---
 
